@@ -1,0 +1,21 @@
+{
+    
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "empty"
+      },
+      "job": {
+        "type": "empty"
+      },
+      "id": {
+        "type": "empty"
+      }
+      
+    },
+    "required": [
+      "name",
+      "job",
+      "id"
+    ] 
+  }
